@@ -108,3 +108,14 @@
 ## 11. [Modern Concurrency in Swift](https://www.raywenderlich.com/28971664-announcing-modern-concurrency-in-swift-first-edition)
 
 Learn everything you need to create safe, performant and predictable asynchronous apps by leveraging the new modern concurrency features introduced in Swift 5.5, such as async/await, tasks, actors and more.
+
+## 12. [Async / Await in Swift](https://jayeshkawli.ghost.io/async-await-in-swift/)
+
+## 13. 『 Swift 新并发框架 』系列文章
+
+- [Swift 新并发框架之 async/await](https://juejin.cn/post/7076733264798416926)
+- [Swift 新并发框架之 actor](https://juejin.cn/post/7076738494869012494)
+- [Swift 新并发框架之 Sendable](https://juejin.cn/post/7076741945820872717/)
+- [Swift 新并发框架之 Task](https://juejin.cn/post/7084640887250092062/)
+
+## 14. [喵神的 Swift 并发初步](https://onevcat.com/2021/07/swift-concurrency/)
