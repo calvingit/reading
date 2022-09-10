@@ -1,10 +1,4 @@
----
-title: 摸鱼精选 Swift Concurrency 专题
-slug: reading-swift-concurrency
-date: 2022-04-05
-series:
-  - Reading
----
+# Swift Concurrency 专题
 
 本专题主要解决 Swift 5.5 增加的 Concurrency 功能的学习，首要问题就是要明白[Swift Concurrency 是什么](https://github.com/KwaiAppTeam/SwiftPamphletApp/issues/63)。
 
