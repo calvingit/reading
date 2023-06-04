@@ -22,21 +22,21 @@ theme:
     - media: '(prefers-color-scheme)'
       toggle:
         icon: material/brightness-auto
-        name: Switch to light mode
+        name: 浅色
 
     # Palette toggle for light mode
     - media: '(prefers-color-scheme: light)'
       scheme: default
       toggle:
         icon: material/brightness-7
-        name: Switch to dark mode
+        name: 暗黑
 
     # Palette toggle for dark mode
     - media: '(prefers-color-scheme: dark)'
       scheme: slate
       toggle:
         icon: material/brightness-4
-        name: Switch to system preference
+        name: 系统
 
 markdown_extensions:
   toc:
